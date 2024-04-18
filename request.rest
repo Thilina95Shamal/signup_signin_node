@@ -1,0 +1,10 @@
+# POST http://localhost:3001/api/user/signup
+# Content-Type: application/json
+# {
+#     "username":"greens",
+#     "email":"test001email",
+#     "password":"abc@123"
+
+# }
+
+
